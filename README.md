@@ -1,18 +1,17 @@
-### 👋Hi, I'm Kurtis Pykes
-I'm a self-taught machine learning engineer working as a freelancer. I have a keen interest in designing, building, and deploying machine learning applications, as well as writing. Outside of work, I enjoy... 
+### 👋Hi, I'm Clinton Boyda
 
-* ⚽ Playing football and watching Chelsea FC (The best club in the world.)
-* 🤸 Calisthenics - my preferred style of exercise
-* 📚 Reading.
+I'm a University graduate with a degree in both Psychology and Computing Science [aka Cognitive Science]. I have a keen interest in exploring, and building new solutions.  As a Professional Project Manager, I have recognized presentations and decisions based on data are critical to the iterative cycle of Agile development so lately I have been improving my data analysis, visualization and machine learning skills.  Outside of work, I ... 
 
-### ✍️📝Writing
-* [Building Reproducible Machine Learning Pipelines](https://towardsdatascience.com/building-reproducible-machine-learning-pipelines-c80407c4319f) - 17th June 2021
-* [Fighting Overfitting with L1 or L2 Regularization-Which one is Better?](https://neptune.ai/blog/fighting-overfitting-with-l1-or-l2-regularization) - 19th July 2021
-* [Best Practices for Data Science Project Workflows and File Organization](https://neptune.ai/blog/best-practices-for-data-science-project-workflows-and-file-organizations) - 20th July 2021
-* [How to Design a Machine Learning System](https://medium.com/geekculture/how-to-design-a-machine-learning-system-89d806ff3d3b) - 5th Sept 2021
+* 📡 Collect Star Wars 3.75" figures, monsters and vehicles to explore a Galaxy Far Far Away...
+* 🏔️ Escape to the mountains as often as possible, member of Alpine, Caving and Search and Rescue clubs
+* 🙌 Volunteer to help my community
+
+### ✍️ Writing about Applying Technology to Solve Today's Challenges
+* [Improving Emergency Management Communications with Starlink Satellite Internet](https://www.linkedin.com/pulse/improving-emergency-management-communications-starlink)- 14th June 2023
+* [How Agility Can Improve Disaster Management](https://www.linkedin.com/pulse/how-agility-can-improve-disaster-management-d4h-technologies) - 10th June 2023
+* [Resilience in Emergency Management: Reducing the Impact of Disasters](https://www.linkedin.com/pulse/resilience-emergency-management-reducing-impact-disasters)- 31st March 2023
+* [Climate Change Effects on Emergency Management](https://www.linkedin.com/pulse/climate-change-effects-emergency-management-d4h-technologies) - 7th October 2022
 
 ### 📬Connect with Me📬
-* [Twitter](https://twitter.com/KurtisPykes)
-* [LinkedIn](https://www.linkedin.com/in/kurtispykes/)
-* [Medium](https://kurtispykes.medium.com/)
+* [LinkedIn](https://www.linkedin.com/in/clintonboyda/)
 
