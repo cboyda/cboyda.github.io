@@ -12,6 +12,6 @@ I'm a University graduate with a degree in both Psychology and Computing Science
 * [Resilience in Emergency Management: Reducing the Impact of Disasters](https://www.linkedin.com/pulse/resilience-emergency-management-reducing-impact-disasters)- 31st March 2023
 * [Climate Change Effects on Emergency Management](https://www.linkedin.com/pulse/climate-change-effects-emergency-management-d4h-technologies) - 7th October 2022
 
-### 📬Connect with Me📬
+### 📬Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/clintonboyda/)
 
